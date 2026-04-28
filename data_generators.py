@@ -3,8 +3,8 @@ import torch
 
 class PeriodicLinearParameterFlip:
 
-    def __init__(self, period=100, num_total_components=100, num_flipping_components=5,
-                 noise_level=0.1, seed=0):
+    def __init__(self, period=20, num_total_components=20, num_flipping_components=5,
+                 noise_level=0.0, seed=0):
         self.period = period
         self.num_total_components = num_total_components
         self.num_flipping_components = num_flipping_components
