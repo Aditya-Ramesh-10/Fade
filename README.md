@@ -1,6 +1,6 @@
 # Forgetting through Adaptive DEcay (FADE)
 
-The code in this repository supplements the paper "Learning to Forget: Continual Learning with Adaptive Weight Decay".
+The code in this repository supplements the paper ["Learning to Forget: Continual Learning with Adaptive Weight Decay"](http://arxiv.org/abs/2604.27063).
 
 
 ## Repository Structure
